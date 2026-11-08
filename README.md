@@ -7,7 +7,7 @@
 </a>
 
 **Industrial Engineering @ Northeastern University** · Minors in Business Administration & Mathematics  
-*Ankara 🇹🇷 → Boston 🇺🇸* · Major GPA **3.95** · Dean's List ×3
+ · Major GPA **3.95** · Dean's List ×3
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arzu--malkoch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzu-malkoch-365612271)
 [![Email](https://img.shields.io/badge/Email-malkoch.a%40northeastern.edu-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malkoch.a@northeastern.edu)
