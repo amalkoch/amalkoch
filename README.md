@@ -120,12 +120,6 @@ class Arzu:
 
 ---
 
-### 🤸 Off the keyboard
-
-🥇 National medalist in **gymnastics** (Turkey) · 🤺 **Fencing** athlete *and* referee · 🎾 Tennis · 🐾 Volunteer at the Çankaya (Ankara) animal shelter · ☕ I once did an operations study of a coffee shop just to see where the line got stuck
-
----
-
 <div align="center">
 
 ### 📈 GitHub streak
