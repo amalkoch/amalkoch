@@ -51,15 +51,17 @@ class Arzu:
 
 | Project | What it does | Stack |
 |---|---|---|
+| 🎙️ **[Interview Coach](https://github.com/amalkoch/InterviewCoach)** | A voice-first, **multi-agent** interview practice tool. You speak, and four specialized AI agents listen, score, advise and write a final report. Each agent runs on the LLM best suited to its job | Next.js · TypeScript · Multi-LLM agents |
 | ⚽ **[World Cup 2026 GenAI Chatbot](https://github.com/amalkoch/genai-agents-coursework/tree/main/world-cup-chatbot)** | RAG over 1,600+ documents of World Cup history, plus a LangGraph ReAct agent that predicts matches with structured reasoning and **simulates all 104 matches** of the 2026 tournament | LangChain · LangGraph · FAISS · GPT-4o-mini · Plotly |
-| 🏭 **[Production Scheduling MILP](https://github.com/amalkoch/production-scheduling-milp)** | Mixed-integer models for a 5-machine × 5-part die-casting plant: minimize overtime, minimax overtime, overtime cost, setup carryover and shortfall penalties. Every model solves to optimal | Python · PuLP · Matplotlib |
+| ♠️ **[Pokerbot Lab](https://github.com/amalkoch/pokerbot-lab)** | An offline arena for building and stress-testing poker agents under time pressure: legal-action guards, seeded matchups, policy comparison, tournament-risk math and latency benchmarks, all with a full test suite | Python (no dependencies) |
+| 🏭 **[Production Scheduling MILP](https://github.com/amalkoch/OPERATIONSRESEARCH)** | Mixed-integer models for a 5-machine × 5-part die-casting plant: minimize overtime, minimax overtime, overtime cost, setup carryover and shortfall penalties. Every model solves to optimal | Python · PuLP · Matplotlib |
+| 📈 **[Stock Market Analysis Dashboard](https://github.com/amalkoch/stock-analysis)** | Live Yahoo Finance data with moving averages, MACD, RSI and regression trends, available from both the command line and a Streamlit/Plotly web app | Python · Streamlit · Plotly |
 | 📊 **[Algo Trading Bots](https://github.com/amalkoch/algo-trading-bots)** | Market-making bots for a simulated exchange: fair-value estimation, inventory control and position-limit-aware order sizing | Python |
 | 🗄️ **[SQL + Flask Database Labs](https://github.com/amalkoch/sql-flask-database-labs)** | A retail database in SQLite, with Flask CRUD apps, generated reports and Matplotlib charts on top | SQL · SQLite · Flask · pandas |
 | 🤖 **[GenAI Agents Coursework](https://github.com/amalkoch/genai-agents-coursework)** | Prompting strategies → LangChain memory → agents → RAG → LangGraph → multi-agent investment analysis | OpenAI · LangChain · LangGraph |
 
 **Also built (not public):**
 - **Portfolio allocation & downside risk:** correlated Monte Carlo simulations comparing loss probability, max drawdown and expected shortfall.
-- **Stock market dashboard:** MACD, RSI and regression trends in Streamlit and Plotly.
 - **LLM-verified entity resolution:** matching thousands of CRM records against a database of 1.3M records, using fuzzy matching, embeddings and LLM checks.
 
 ---
