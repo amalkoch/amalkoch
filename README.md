@@ -2,7 +2,7 @@
 
 # Hi, I'm Arzu 👋
 
-<a href="https://github.com/__GITHUB_USERNAME__">
+<a href="https://github.com/amalkoch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E4B8F&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%40+Northeastern;I+turn+messy+data+into+decisions;Prediction+markets+%C2%B7+Quant+%C2%B7+Optimization;Python+%2B+LLMs+%2B+a+little+bit+of+MILP" alt="Typing intro" />
 </a>
 
@@ -11,7 +11,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arzu--malkoch-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arzu-malkoch-365612271)
 [![Email](https://img.shields.io/badge/Email-malkoch.a%40northeastern.edu-C8102E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malkoch.a@northeastern.edu)
-![Profile views](https://komarev.com/ghpvc/?username=__GITHUB_USERNAME__&color=1e4b8f&style=for-the-badge&label=VISITORS)
+![Profile views](https://komarev.com/ghpvc/?username=amalkoch&color=1e4b8f&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -51,11 +51,11 @@ class Arzu:
 
 | Project | What it does | Stack |
 |---|---|---|
-| ⚽ **[World Cup 2026 GenAI Chatbot](https://github.com/__GITHUB_USERNAME__/genai-agents-coursework/tree/main/world-cup-chatbot)** | RAG over 1,600+ documents of World Cup history, plus a LangGraph ReAct agent that predicts matches with structured reasoning and **simulates all 104 matches** of the 2026 tournament | LangChain · LangGraph · FAISS · GPT-4o-mini · Plotly |
-| 🏭 **[Production Scheduling MILP](https://github.com/__GITHUB_USERNAME__/production-scheduling-milp)** | Mixed-integer models for a 5-machine × 5-part die-casting plant: minimize overtime, minimax overtime, overtime cost, setup carryover and shortfall penalties. Every model solves to optimal | Python · PuLP · Matplotlib |
-| 📊 **[Algo Trading Bots](https://github.com/__GITHUB_USERNAME__/algo-trading-bots)** | Market-making bots for a simulated exchange: fair-value estimation, inventory control and position-limit-aware order sizing | Python |
-| 🗄️ **[SQL + Flask Database Labs](https://github.com/__GITHUB_USERNAME__/sql-flask-database-labs)** | A retail database in SQLite, with Flask CRUD apps, generated reports and Matplotlib charts on top | SQL · SQLite · Flask · pandas |
-| 🤖 **[GenAI Agents Coursework](https://github.com/__GITHUB_USERNAME__/genai-agents-coursework)** | Prompting strategies → LangChain memory → agents → RAG → LangGraph → multi-agent investment analysis | OpenAI · LangChain · LangGraph |
+| ⚽ **[World Cup 2026 GenAI Chatbot](https://github.com/amalkoch/genai-agents-coursework/tree/main/world-cup-chatbot)** | RAG over 1,600+ documents of World Cup history, plus a LangGraph ReAct agent that predicts matches with structured reasoning and **simulates all 104 matches** of the 2026 tournament | LangChain · LangGraph · FAISS · GPT-4o-mini · Plotly |
+| 🏭 **[Production Scheduling MILP](https://github.com/amalkoch/production-scheduling-milp)** | Mixed-integer models for a 5-machine × 5-part die-casting plant: minimize overtime, minimax overtime, overtime cost, setup carryover and shortfall penalties. Every model solves to optimal | Python · PuLP · Matplotlib |
+| 📊 **[Algo Trading Bots](https://github.com/amalkoch/algo-trading-bots)** | Market-making bots for a simulated exchange: fair-value estimation, inventory control and position-limit-aware order sizing | Python |
+| 🗄️ **[SQL + Flask Database Labs](https://github.com/amalkoch/sql-flask-database-labs)** | A retail database in SQLite, with Flask CRUD apps, generated reports and Matplotlib charts on top | SQL · SQLite · Flask · pandas |
+| 🤖 **[GenAI Agents Coursework](https://github.com/amalkoch/genai-agents-coursework)** | Prompting strategies → LangChain memory → agents → RAG → LangGraph → multi-agent investment analysis | OpenAI · LangChain · LangGraph |
 
 **Also built (not public):**
 - **Portfolio allocation & downside risk:** correlated Monte Carlo simulations comparing loss probability, max drawdown and expected shortfall.
@@ -131,8 +131,8 @@ class Arzu:
 
 ### 📈 GitHub stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=__GITHUB_USERNAME__&show_icons=true&hide_border=true&count_private=true&title_color=1e4b8f&icon_color=c8102e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=__GITHUB_USERNAME__&layout=compact&hide_border=true&title_color=1e4b8f" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amalkoch&show_icons=true&hide_border=true&count_private=true&title_color=1e4b8f&icon_color=c8102e" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkoch&layout=compact&hide_border=true&title_color=1e4b8f" />
 
 <sub>Open to <b>Summer 2027</b> roles in quant research, trading, investment analysis and data science. Let's talk!</sub>
 
