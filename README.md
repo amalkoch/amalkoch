@@ -3,7 +3,7 @@
 # Hi, I'm Arzu 👋
 
 <a href="https://github.com/amalkoch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E4B8F&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%40+Northeastern;I+turn+messy+data+into+decisions;Prediction+markets+%C2%B7+Quant+%C2%B7+Optimization;Python+%2B+LLMs+%2B+a+little+bit+of+MILP" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=620&lines=Industrial+Engineer+%40+Northeastern;I+turn+messy+data+into+decisions;Prediction+markets+%C2%B7+Quant+%C2%B7+Optimization;Python+%2B+LLMs+%2B+a+little+bit+of+MILP" alt="Typing intro" />
 </a>
 
 **Industrial Engineering @ Northeastern University** · Minors in Business Administration & Mathematics  
@@ -131,10 +131,9 @@ class Arzu:
 
 <div align="center">
 
-### 📈 GitHub stats
+### 📈 GitHub streak
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amalkoch&show_icons=true&hide_border=true&count_private=true&title_color=1e4b8f&icon_color=c8102e" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalkoch&layout=compact&hide_border=true&title_color=1e4b8f" />
+<img src="https://streak-stats.demolab.com?user=amalkoch&theme=transparent&hide_border=true&ring=3B82F6&fire=C8102E&currStreakLabel=3B82F6" alt="GitHub streak" />
 
 <sub>Open to <b>Summer 2027</b> roles in quant research, trading, investment analysis and data science. Let's talk!</sub>
 
